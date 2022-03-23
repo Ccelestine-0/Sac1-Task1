@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sac computing task 1/1.0.0": {
+        "runtime": {
+          "Sac computing task 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sac computing task 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
